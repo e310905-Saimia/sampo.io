@@ -5,7 +5,7 @@ Lataa ZIP paketti! [Lataa ZIP](https://lut-my.sharepoint.com/:u:/g/personal/joun
 - [Lataa ja pura tiedosto](https://youtu.be/jaPgE9KdsKQ)
 - [FactoryIO:n käynnistys](https://youtu.be/gysPj3Z_5do)
 - [TIA Portalin käynnistäminen](https://youtu.be/0avcMTRXQJI)
-- [Virtuaalilogiikan käynnistys]()
+- [Virtuaalilogiikan käynnistys](https://youtu.be/QfsY5A9Cl_4)
 ## TIA Portal
 - [Funtion luonti](https://youtu.be/alfzpgWR6YU)
 - [Ohjelman lataaminen logiikalle](https://youtu.be/0sieKOTqfxc)
