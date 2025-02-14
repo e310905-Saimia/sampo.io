@@ -11,5 +11,6 @@ Lataa ZIP paketti! [Lataa ZIP](https://lut-my.sharepoint.com/:u:/g/personal/joun
 - [Ohjelman lataaminen logiikalle](https://youtu.be/0sieKOTqfxc)
 ## FactoryIO
 - [Simuloinnin testaus](https://youtu.be/YuvNE387X3U)
+- [Kuljetin prosessi](https://youtu.be/vJeIHILpD6g)
 
 
